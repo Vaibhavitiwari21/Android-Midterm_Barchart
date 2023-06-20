@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#697FF8</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="purple_200">#00BB86FC</color>
+    <color name="purple_500">#FFC107</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--action bar text color-->
+    <color name="actionbartext">#352801</color>
+    <!--activity_add_student.xml all colors-->
+    <color name="add_student_bg_color">#3F51B5</color>
+    <color name="add_student_btn_bg_color">#FFC107</color>
+    <color name="add_student_btn_text_color">#090909</color>
+    <color name="add_student_input_field_bg">#FFFFFF</color>
+    <color name="back_btn_bg_color">#FFC107</color>
+</resources>
